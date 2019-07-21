@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/ip-scanner.py
-	```
+```
+src/ip-scanner.py
+```
 
 ## Authors
 
